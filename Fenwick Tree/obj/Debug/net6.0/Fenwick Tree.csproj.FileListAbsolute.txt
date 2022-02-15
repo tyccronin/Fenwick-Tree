@@ -1,0 +1,15 @@
+C:\Users\tyccr\Documents\Fenwick Tree\bin\Debug\net6.0\Fenwick Tree.exe
+C:\Users\tyccr\Documents\Fenwick Tree\bin\Debug\net6.0\Fenwick Tree.deps.json
+C:\Users\tyccr\Documents\Fenwick Tree\bin\Debug\net6.0\Fenwick Tree.runtimeconfig.json
+C:\Users\tyccr\Documents\Fenwick Tree\bin\Debug\net6.0\Fenwick Tree.dll
+C:\Users\tyccr\Documents\Fenwick Tree\bin\Debug\net6.0\ref\Fenwick Tree.dll
+C:\Users\tyccr\Documents\Fenwick Tree\bin\Debug\net6.0\Fenwick Tree.pdb
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.csproj.AssemblyReference.cache
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.AssemblyInfoInputs.cache
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.AssemblyInfo.cs
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.csproj.CoreCompileInputs.cache
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.dll
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\ref\Fenwick Tree.dll
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.pdb
+C:\Users\tyccr\Documents\Fenwick Tree\obj\Debug\net6.0\Fenwick Tree.genruntimeconfig.cache
